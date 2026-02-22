@@ -9,7 +9,8 @@
 </p>
 
 <p align="center">
-  <strong>RomaPyRs</strong> is a cutting-edge transpiler that bridges the worlds of Python and Rust. Write in familiar Python syntax (.pyrs files), and let RomaPyRs automatically convert it to highly optimized Rust binaries. With built-in auto-optimizations like parallelism (via Rayon), memoization, and type inference, achieve <em>100-1000x speedups over pure Python</em> and often <em>2x faster than handwritten Rust</em>. Perfect for performance-critical tasks in ML, numerics, and high-throughput computing without sacrificing Python's ease!
+  <strong>RomaPyRs</strong> is an experimental transpiler that bridges Python and Rust. Write in familiar Python syntax (.pyrs files), and let RomaPyRs convert it to Rust binaries with basic optimizations. It includes attempts at auto-optimizations like parallelism (via Rayon), memoization for detected patterns (e.g., recursive fib), and simple type inference. Based on benchmarks, it achieves up to 45x speedups over pure Python in specific tests (e.g., sum list), though results vary and it's generally slower than optimized handwritten Rust. Suitable for exploring performance-critical tasks in numerics and computing while retaining some of Python's ease in early prototyping!
+
 </p>
 
 <p align="center">
@@ -28,7 +29,7 @@
 
 In a world where Python's simplicity reigns but performance bottlenecks persist, RomaPyRs emerges as the quantum leap. It transpiles Python code to Rust, injecting intelligent optimizations that vanilla Rust developers might overlook. 
 
-- **Exponential Speed**: Harness Rust's zero-overhead abstractions with Pythonic flairâfaster than Numba/JIT alternatives in many cases.
+- **Exponential Speed**: Harness Rust's zero-overhead abstractions with Pythonic flair faster than Numba/JIT alternatives in many cases.
 - **Auto-Optimizations**: Detects recursion for memoization, loops for parallelism, and more via AST analysis.
 - **Seamless Integration**: Supports numpy-like ops (mapped to ndarray crate), with plans for full PyO3 interop.
 - **Production-Ready**: CLI tool, Docker support, CI/CD, testsâbuilt for real-world use.
