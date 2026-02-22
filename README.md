@@ -1,9 +1,10 @@
-# Ã°ÂÂÂ RomaPyRs v1.0 Ã¢ÂÂ Python Ease + Rust Speed, Exponentially Amplified! Ã°ÂÂ¦Â
-
+RomaPyRs v1.0 Python Ease + Rust Speed, Exponentially Amplified!
+Copyright Daniel Harding - RomanAILabs
+daniel@romanailabs.com
 [![PyPI version](https://badge.fury.io/py/romapyrs.svg)](https://badge.fury.io/py/romapyrs)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**RomaPyRs** transpiles Python code (.pyrs) to optimized Rust binariesÃ¢ÂÂPythonic syntax, Rust performance with auto-opts (parallelism, memoization). 100-1000x faster than Python, often 2x vanilla Rust.
+**RomaPyRs** transpiles Python code (.pyrs) to optimized Rust binaries Pythonic syntax, Rust performance with auto-opts (parallelism, memoization). 100-1000x faster than Python, often 2x vanilla Rust.
 
 ## Installation
 Requires Rust/Cargo installed.
