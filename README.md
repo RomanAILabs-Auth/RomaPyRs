@@ -1,6 +1,9 @@
 RomaPyRs v1.0 Python Ease + Rust Speed, Exponentially Amplified!
+
 Copyright Daniel Harding - RomanAILabs
+
 daniel@romanailabs.com
+
 [![PyPI version](https://badge.fury.io/py/romapyrs.svg)](https://badge.fury.io/py/romapyrs)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
