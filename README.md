@@ -2,7 +2,7 @@
   <img src="https://via.placeholder.com/150x150?text=RomaPyRs" alt="RomaPyRs Logo" width="150"/>
 </p>
 
-<h1 align="center">RomaPyRs v1.0: Python Ease + Rust Speed, Exponentially Amplified! ðð</h1>
+<h1 align="center">RomaPyRs v1.0: Python Ease + Rust Speed, Exponentially Amplified! </h1>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
