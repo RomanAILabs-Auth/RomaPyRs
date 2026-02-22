@@ -5,11 +5,7 @@
 <h1 align="center">RomaPyRs v1.0: Python Ease + Rust Speed, Exponentially Amplified! ðð</h1>
 
 <p align="center">
-  <a href="https://badge.fury.io/py/romapyrs"><img src="https://badge.fury.io/py/romapyrs.svg" alt="PyPI version"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
-  <a href="https://github.com/RomanAILabs-Auth/RomaPyRs/actions"><img src="https://github.com/RomanAILabs-Auth/RomaPyRs/workflows/CI/badge.svg" alt="CI Status"></a>
-  <a href="https://pypi.org/project/romapyrs/"><img src="https://img.shields.io/pypi/dm/romapyrs" alt="PyPI Downloads"></a>
-  <a href="https://github.com/RomanAILabs-Auth/RomaPyRs/stargazers"><img src="https://img.shields.io/github/stars/RomanAILabs-Auth/RomaPyRs?style=social" alt="GitHub Stars"></a>
 </p>
 
 <p align="center">
