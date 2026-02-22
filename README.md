@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <strong>RomaPyRs</strong> is a cutting-edge transpiler that bridges the worlds of Python and Rust. Write in familiar Python syntax (.pyrs files), and let RomaPyRs automatically convert it to highly optimized Rust binaries. With built-in auto-optimizations like parallelism (via Rayon), memoization, and type inference, achieve <em>100-1000x speedups over pure Python</em> and often <em>2x faster than handwritten Rust</em>. Perfect for performance-critical tasks in ML, numerics, and high-throughput computingâwithout sacrificing Python's ease!
+  <strong>RomaPyRs</strong> is a cutting-edge transpiler that bridges the worlds of Python and Rust. Write in familiar Python syntax (.pyrs files), and let RomaPyRs automatically convert it to highly optimized Rust binaries. With built-in auto-optimizations like parallelism (via Rayon), memoization, and type inference, achieve <em>100-1000x speedups over pure Python</em> and often <em>2x faster than handwritten Rust</em>. Perfect for performance-critical tasks in ML, numerics, and high-throughput computing without sacrificing Python's ease!
 </p>
 
 <p align="center">
